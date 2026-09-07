@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+*.pt
+output.mp4
+incident_log.jsonl
+
+.streamlit/secrets.toml
