@@ -5,3 +5,4 @@ groq
 anthropic
 streamlit
 numpy
+lapx
